@@ -11,7 +11,6 @@ from openpyxl.chart import (
     Series,
 )
 
-
 merced = '05000US06047'
 tuolumne = '05000US06109'
 us = '01000US'
